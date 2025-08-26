@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/developer-portfolio-personal/static/css/main.90bf11d5.chunk.css",
-    "main.js": "/developer-portfolio-personal/static/js/main.9da3455e.chunk.js",
-    "main.js.map": "/developer-portfolio-personal/static/js/main.9da3455e.chunk.js.map",
+    "main.js": "/developer-portfolio-personal/static/js/main.6a691563.chunk.js",
+    "main.js.map": "/developer-portfolio-personal/static/js/main.6a691563.chunk.js.map",
     "runtime-main.js": "/developer-portfolio-personal/static/js/runtime-main.82865004.js",
     "runtime-main.js.map": "/developer-portfolio-personal/static/js/runtime-main.82865004.js.map",
     "static/css/2.8ed5a309.chunk.css": "/developer-portfolio-personal/static/css/2.8ed5a309.chunk.css",
@@ -95,6 +95,7 @@
     "static/media/javascript.e9360603.svg": "/developer-portfolio-personal/static/media/javascript.e9360603.svg",
     "static/media/julia.be076220.svg": "/developer-portfolio-personal/static/media/julia.be076220.svg",
     "static/media/kotlin.4f592da4.svg": "/developer-portfolio-personal/static/media/kotlin.4f592da4.svg",
+    "static/media/laravel.6f8afa80.svg": "/developer-portfolio-personal/static/media/laravel.6f8afa80.svg",
     "static/media/lightroom.0e67d833.svg": "/developer-portfolio-personal/static/media/lightroom.0e67d833.svg",
     "static/media/markdown.62e50cf0.svg": "/developer-portfolio-personal/static/media/markdown.62e50cf0.svg",
     "static/media/materialui.518da2c0.svg": "/developer-portfolio-personal/static/media/materialui.518da2c0.svg",
@@ -126,7 +127,7 @@
     "static/media/react.2b6a0717.svg": "/developer-portfolio-personal/static/media/react.2b6a0717.svg",
     "static/media/redTheme-boy.846d9d39.svg": "/developer-portfolio-personal/static/media/redTheme-boy.846d9d39.svg",
     "static/media/redTheme-girl.1ebbd52c.svg": "/developer-portfolio-personal/static/media/redTheme-girl.1ebbd52c.svg",
-    "static/media/resume.bc382d73.pdf": "/developer-portfolio-personal/static/media/resume.bc382d73.pdf",
+    "static/media/resume.6515fad1.pdf": "/developer-portfolio-personal/static/media/resume.6515fad1.pdf",
     "static/media/ruby.34e792ab.svg": "/developer-portfolio-personal/static/media/ruby.34e792ab.svg",
     "static/media/selenium.7dcf1c14.svg": "/developer-portfolio-personal/static/media/selenium.7dcf1c14.svg",
     "static/media/seven.3168c0a5.svg": "/developer-portfolio-personal/static/media/seven.3168c0a5.svg",
@@ -137,6 +138,7 @@
     "static/media/svelte.7b116dd5.svg": "/developer-portfolio-personal/static/media/svelte.7b116dd5.svg",
     "static/media/swift.a030128a.svg": "/developer-portfolio-personal/static/media/swift.a030128a.svg",
     "static/media/tailwind.254c4865.svg": "/developer-portfolio-personal/static/media/tailwind.254c4865.svg",
+    "static/media/talha.b3c7a039.png": "/developer-portfolio-personal/static/media/talha.b3c7a039.png",
     "static/media/tensorflow.6d6f2e37.svg": "/developer-portfolio-personal/static/media/tensorflow.6d6f2e37.svg",
     "static/media/three.d4f751d1.svg": "/developer-portfolio-personal/static/media/three.d4f751d1.svg",
     "static/media/two.721a0672.svg": "/developer-portfolio-personal/static/media/two.721a0672.svg",
@@ -156,6 +158,6 @@
     "static/css/2.8ed5a309.chunk.css",
     "static/js/2.8ed9d5f9.chunk.js",
     "static/css/main.90bf11d5.chunk.css",
-    "static/js/main.9da3455e.chunk.js"
+    "static/js/main.6a691563.chunk.js"
   ]
 }
